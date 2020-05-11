@@ -1,7 +1,8 @@
 # Home-NVR-Setup-Guide-SmartHome-Automation
+
 I want to equip my home with a surveillance system that I can access from anywhere. This project is a 101 to set up a synology surveillance station with IP cameras
 
-* Components
+## Components i used
 
 | Components | Description  | Ammount | Link |
 | ------------- | ------------- | ------------- | ------------- |
@@ -13,3 +14,10 @@ I want to equip my home with a surveillance system that I can access from anywhe
 
 
 ** The first 4 surveillance licences are included when buying a NVR1218 -  to install more IP Cams you have to buy more licences
+
+The cabling is carried out as followed:
+<img src= "images/Setup.png" >
+
+---
+## Setup IP Cams
+I had a lot of trouble setting up the IP cameras at first. So here is a step by step guide
