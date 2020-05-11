@@ -16,8 +16,10 @@ I want to equip my home with a surveillance system that I can access from anywhe
 ** The first 4 surveillance licences are included when buying a NVR1218 -  to install more IP Cams you have to buy more licences
 
 The cabling is carried out as followed:
-<img src= "images/Setup.png" >
+<img src= "images/Setup.png" width="800">
 
 ---
 ## Setup IP Cams
 I had a lot of trouble setting up the IP cameras at first. So here is a step by step guide
+
+To access the installad IP Cams you need the D-Link SetupWizardSE software (you can find the CD supplied with the product)
